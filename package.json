@@ -1,0 +1,15 @@
+{
+  "name": "atillery-server-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "artillery-test": "artillery run load-test.yml"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "artillery": "2.0.20"
+  }
+}
